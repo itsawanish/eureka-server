@@ -1,4 +1,5 @@
 #im inside eureka server
+#i am awanish
 server:
   port: 8761
 
